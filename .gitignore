@@ -11,8 +11,6 @@ __pycache__/
 
 data/freebase_dump/*
 data/SimpleQuestions_v2/*
-*.jpg
-*.jpeg
 *.pyc
 *.h5
 *.log
