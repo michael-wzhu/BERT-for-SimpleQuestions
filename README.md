@@ -19,7 +19,7 @@ This is the code for using Google Bert model on SimpleQuestions dataset, a widel
 ![](./results/snapshots/ner_result_20190124.png)
 
 * 2 epoches
-![](./results/snapshots/ner_result_20190125.jpg)
+![](./results/snapshots/ner_result_20190125.JPG)
 
 
 ## Prerequisites
