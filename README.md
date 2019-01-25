@@ -16,6 +16,8 @@ This is the code for using Google Bert model on SimpleQuestions dataset, a widel
 1. NER result (entity level metrics, following conlleval)
 ![](./results/snapshots/ner_result_20190124.png)
 
+![](./results/snapshots/ner_result_20190125.png)
+
 
 ## Prerequisites
 
